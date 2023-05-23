@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-###Pokédex 150
+####Pokédex 150
 
 Pokédex 150 is a comprehensive mobile application that serves as an interactive encyclopedia for the first 150 Pokémon, also known as the original Pokémon generation. Whether you're a dedicated Pokémon fan or a newcomer to the franchise, this app is your ultimate guide to exploring and learning about these iconic creatures.
 
